@@ -27,7 +27,7 @@ Late submissions will be accepted, but the maximum grade that can be achieved fo
 
 ### Contributors
 
-<a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2023/graphs/contributors">
+<a href="https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2023" />
 </a>
 
