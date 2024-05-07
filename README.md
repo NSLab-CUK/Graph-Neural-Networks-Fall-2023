@@ -40,6 +40,13 @@ Please make sure to submit all assignments through the online learning platform 
 Late submissions will be accepted, but the maximum grade that can be achieved for any assignments submitted after the deadline is B (8 points).
 
 
+### Syllabus
+
+The syllabus for this class can be found on the following Notion page.
+
+* <a href="https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4"><img src="https://img.shields.io/badge/Notion-Syllabus-000000?style=flat-square&logo=Notion"></a>
+
+
 ### Contributors
 
 <a href="https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023/graphs/contributors">
